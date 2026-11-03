@@ -32,7 +32,6 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(NatureRevolved.MOD_ID)
 public class NatureRevolved {
-    // Uhh?
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "nature_revolved";
     // Directly reference a slf4j logger
