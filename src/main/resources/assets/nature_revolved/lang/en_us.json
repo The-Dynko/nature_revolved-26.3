@@ -1,13 +1,4 @@
 {
-  "itemGroup.nature_revolved": "Example Mod Tab",
-  "block.nature_revolved.example_block": "Example Block",
-  "item.nature_revolved.example_item": "Example Item",
-
-  "nature_revolved.configuration.title": "Nature Revolved Configs",
-  "nature_revolved.configuration.section.nature_revolved.common.toml": "Nature Revolved Configs",
-  "nature_revolved.configuration.section.nature_revolved.common.toml.title": "Nature Revolved Configs",
-  "nature_revolved.configuration.items": "Item List",
-  "nature_revolved.configuration.logDirtBlock": "Log Dirt Block",
-  "nature_revolved.configuration.magicNumberIntroduction": "Magic Number Text",
-  "nature_revolved.configuration.magicNumber": "Magic Number"
+  "item.nature_revolved.permian_fossil": "Permian Fossil",
+  "item.nature_revolved.cretaceous_fossil": "Cretaceous Fossil"
 }
